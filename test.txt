@@ -1,0 +1,2 @@
+
+This is a file with plain text to see if my program runs correctly
